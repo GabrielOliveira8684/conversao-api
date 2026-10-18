@@ -96,5 +96,3 @@ Esse projeto foi feito para praticar o back-end com Python, deixando o código s
 ## Tecnologias
 
 Python, Flask, SQLite, requests
-
-Valeu!
